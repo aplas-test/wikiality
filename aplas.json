@@ -1,20 +1,24 @@
 {
-  "id": "wikiality",
-  "name": "Wikiality",
-  "categoryId": "administration",
-  "description": "Customer-focused solution-oriented hierarchy",
-  "investment_24m": "728",
-  "hostedtype": "SaaS",
-  "licensing_cost": "230",
-  "status_color": "#00FF00",
-  "type": "SaaS",
-  "support_cost": "339",
-  "deployment_date": "10/12/10",
-  "end_of_maintenance": "12/6/17",
-  "department": "Human Resources",
-  "status": "Active",
-  "end_of_life": "5/3/20",
-  "months_to_renew_support": "14",
-  "sme_email": "Dorri.Friatt@memento.net.au",
-  "investment_number": "159"
+  "applications": [
+    {
+      "id": "wikiality",
+      "name": "Wikiality",
+      "categoryId": "administration",
+      "description": "Customer-focused solution-oriented hierarchy",
+      "investment_24m": "728",
+      "hostedtype": "SaaS",
+      "licensing_cost": "230",
+      "status_color": "#00FF00",
+      "type": "SaaS",
+      "support_cost": "339",
+      "deployment_date": "10/12/10",
+      "end_of_maintenance": "12/6/17",
+      "department": "Human Resources",
+      "status": "Active",
+      "end_of_life": "5/3/20",
+      "months_to_renew_support": "14",
+      "sme_email": "Dorri.Friatt@memento.net.au",
+      "investment_number": "159"
+    }
+  ]
 }
