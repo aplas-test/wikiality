@@ -9,23 +9,22 @@
       "description": "Customer-focused solution-oriented hierarchy",
       "categoryId": "administration",
       "applicationSize": "large",
-      "status": "standard",
       "licensing_cost": "230",
       "status_color": "#00FF00",
       "department": "Human Resources",
       "hostedtype": "SaaS",
       "deployment_date": "10/12/10",
-      "investment_number": "159",
+      "investment_number": 159,
       "type": "SaaS",
       "sme_email": "Dorri.Friatt@memento.net.au",
       "investment_24m": "728",
       "support_cost": "339",
       "end_of_life": "5/3/20",
-      "months_to_renew_support": "14",
+      "months_to_renew_support": 14,
       "end_of_maintenance": "12/6/17",
       "integrations": [
         {
-          "assetId": "int-408",
+          "id": "int-408",
           "name": "INT-408",
           "shortName": null,
           "version": "4.3",
@@ -33,7 +32,6 @@
           "payload": "Sales",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Tonya Oldcroft",
           "status_color": "#FFFF03",
           "department": "Integration",
@@ -46,7 +44,7 @@
           "golive_date": "7/5/10"
         },
         {
-          "assetId": "int-006",
+          "id": "int-006",
           "name": "INT-006",
           "shortName": null,
           "version": "4.9.9",
@@ -54,7 +52,6 @@
           "payload": "Maximums ",
           "targetApplicationId": "wikiality",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -67,7 +64,7 @@
           "golive_date": "17/9/04"
         },
         {
-          "assetId": "int-014",
+          "id": "int-014",
           "name": "INT-014",
           "shortName": null,
           "version": "0.2.6",
@@ -75,7 +72,6 @@
           "payload": "Layby Hierarchy Extract",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -88,7 +84,7 @@
           "golive_date": "30/1/02"
         },
         {
-          "assetId": "int-325",
+          "id": "int-325",
           "name": "INT-325",
           "shortName": null,
           "version": "5.3",
@@ -96,7 +92,6 @@
           "payload": "Minimum/",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -109,7 +104,7 @@
           "golive_date": "16/1/03"
         },
         {
-          "assetId": "int-101",
+          "id": "int-101",
           "name": "INT-101",
           "shortName": null,
           "version": "6.6.7",
@@ -117,7 +112,6 @@
           "payload": "Purchase Order - Store Order",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#FFFF10",
           "department": "Integration",
@@ -130,7 +124,7 @@
           "golive_date": "12/2/15"
         },
         {
-          "assetId": "int-196",
+          "id": "int-196",
           "name": "INT-196",
           "shortName": null,
           "version": "3.02",
@@ -138,7 +132,6 @@
           "payload": "Sales (Store Sales / Flybuys)",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Isacco Tucker",
           "status_color": "#00FF00",
           "department": "Integration",
